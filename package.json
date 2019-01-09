@@ -1,6 +1,6 @@
 {
   "name": "ember-group-by",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An Ember.js computed property macro for grouping objects by a given property.",
   "keywords": [
     "ember-addon",
@@ -13,7 +13,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/HeroicEric/ember-group-by",
+  "repository": "https://github.com/pauldoerwald/ember-group-by",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
